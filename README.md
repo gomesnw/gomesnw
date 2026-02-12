@@ -35,9 +35,3 @@ Abaixo, algumas das tecnologias e ferramentas que utilizo no meu dia a dia de de
 
 * **LinkedIn:** www.linkedin.com/in/isaque-gomes-096676250
 * **E-mail:** isaquegeovani29@gmail.com
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gomesnw&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesnw&layout=compact&theme=dark)
