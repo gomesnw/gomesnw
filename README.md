@@ -1,8 +1,7 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1C344A,100:2C5378&height=120&section=header" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+<h1 align="left">Olá 👋! eu sou Isaque Gomes</h1>
 
-<h1 align="left">Olá! 👋 Eu sou Isaque Gomes</h1>
+###
 
 ### 📝 Sobre Mim
 
@@ -27,19 +26,14 @@ Abaixo, algumas das tecnologias e ferramentas que utilizo no meu dia a dia de de
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2>
-  🌐 Contatos
-</h2>
+## 🌐 Contatos
 
 <p>Entre em contato comigo!</p>
 
-<a href="https://www.linkedin.com/in/gomesnw" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:isaquegeovani29@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<div align="left" >
+  <a  href="https://www.linkedin.com/in/gomesnw/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
+  <a href = "mailto:isaquegeovani29@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/></a>
+</div>
 
-<br><br><br><br><br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1C344A,100:2C5378&height=120&section=footer" alt="Onda decorativa azul">
+###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
